@@ -1,7 +1,7 @@
 body{
-    /* background-image: url(images/download.png); */
+    background-image: url(images/download.png);
     background-repeat: initial;
-    background-color: beige;
+    /* background-color: beige; */
     /* background-attachment: scroll; */
     background-attachment: fixed;
     /* background-position: top right; */

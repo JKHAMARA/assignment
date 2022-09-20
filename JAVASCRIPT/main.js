@@ -18,3 +18,5 @@ console.log(c);
 d = c+b;
 
 console.log(d);
+
+let person = {firstName:"John", lastName:"Doe", age:50, eyeColour:"blue"};
